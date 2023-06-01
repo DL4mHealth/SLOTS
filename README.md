@@ -1,5 +1,4 @@
-# SLOTS
-Semi-Supervised End-to-End  Contrastive Learning for Time Series Classification
+# Semi-Supervised End-to-End  Contrastive Learning for Time Series Classification (SLOTS)
 
 ## Overview
 
