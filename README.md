@@ -1,8 +1,6 @@
 # SLOTS
 Semi-Supervised End-to-End  Contrastive Learning for Time Series Classification
 
-Authors: Huili Cai (huilicai0721@hhu.edu.cn), Xiang Zhang (xiang.alan.zhang@gmail.com), and Xiaofeng Liu (xfliu@hhu.edu.cn).
-
 ## Overview
 
 This repository contains two processed datasets (except for three other datasets that are too large) and the codes of SLOTS (along with baselines) for manuscript Semi-Supervised End-To-End Contrastive Learning For Time Series Classification. We propose an end-to-end model called SLOTS (Semi-supervised Learning fOr Time clasSification). We evaluate SLOTS by comparing it with ten state-of-the-art methods across five datasets.The following illustration provides an overview of the conventional two-stage framework and our end-to-end framework. 
@@ -31,9 +29,6 @@ We evaluate the SLOTS model on five time series datasets covering a large set of
 
 SLOTS has been tested using Python >=3.9.
 
-## Miscellaneous
-
-Please send any questions you might have about the code and/or the algorithm to xiang.alan.zhang@gmail.com.
 
 ## License
 
